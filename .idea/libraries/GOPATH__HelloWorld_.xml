@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;HelloWorld&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../nsf/gocode/_goremote" />
+      <root url="file://$PROJECT_DIR$/../nsf/gocode/_testing" />
+      <root url="file://$PROJECT_DIR$/../nsf/gocode/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../nsf/gocode/_gccgo" />
+      <root url="file://$PROJECT_DIR$/.git" />
+    </excluded>
+  </library>
+</component>
